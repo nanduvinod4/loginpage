@@ -1,0 +1,10 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    height: fit-content;
+    gap: 5px;
+    margin: 10px;
+}

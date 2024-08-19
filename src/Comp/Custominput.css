@@ -1,0 +1,10 @@
+.input{
+    border: 2px solid white;
+    background-color: rgb(230, 225, 225);
+    border-radius: 10px;
+    height: 20px;
+}
+.label{
+    font-size: medium;
+    font-weight: 600;
+}
