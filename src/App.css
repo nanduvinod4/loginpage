@@ -4,6 +4,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: rgba(173, 98, 98, 0.911);
     flex-direction: column;
 }

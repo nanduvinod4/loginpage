@@ -6,8 +6,8 @@ function LoginContainer(){
     return(
         <div className="login">
             <h3>Log In</h3>
-            <Custominput label="UserName"/>
-            <Custominput label="Password"/>
+            <Custominput label="UserName" type="text"/>
+            <Custominput label="Password" type="password"/>
             <CustomBtn label="Login"/>
         </div>  
 )}

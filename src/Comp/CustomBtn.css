@@ -1,13 +1,18 @@
 .CustomBtn{
-    background-color: rgb(81, 129, 113);
+    background-color: rgb(62, 135, 231);
     border-radius: 10px;
     padding: 5px;
+    width: 50%;
 }
 
 .CustomBtn:hover{
-    background-color: rgb(104, 182, 156);
+    background-color: rgb(84, 100, 243);
 }
 
 .CustomBtn:active{
     transform: scale(.98);
+}
+
+.container{
+    text-align: center;
 }
