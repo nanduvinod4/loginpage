@@ -1,12 +1,13 @@
 .CustomBtn{
-    background-color: rgb(62, 135, 231);
-    border-radius: 10px;
+    background-color: #b0c192;
+    border: 2px solid black;
+    border-radius: 10px ;
     padding: 5px;
     width: 50%;
 }
 
 .CustomBtn:hover{
-    background-color: rgb(84, 100, 243);
+    background-color: #306331
 }
 
 .CustomBtn:active{

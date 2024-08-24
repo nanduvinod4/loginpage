@@ -8,6 +8,7 @@ function Signupcontainer(){
             <h3>Sign Up</h3>
             <Custominput label={"UserName"} type={"text"}/>
             <Custominput label={"Mob Number"} type={"number"}/>
+            <Custominput label={"E-mail"} type={"text"}/>
             <Custominput label={"Password"} type={"password"}/>
             <Custominput label="Confirm Password" type={"password"}/>
             <CustomBtn label="SignUp"/>
